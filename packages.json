@@ -1,0 +1,39 @@
+[
+{
+  "package": "eventglm",
+  "url": "https://github.com/sachsmc/eventglm"
+},
+  {
+  "package": "plotROC",
+  "url": "https://github.com/sachsmc/plotROC"
+},
+  {
+  "package": "causaloptim",
+  "url": "https://github.com/sachsmc/causaloptim"
+},
+  {
+  "package": "xactonomial",
+  "url": "https://github.com/sachsmc/xactonomial"
+},
+  {
+  "package": "stdReg2",
+  "url": "https://github.com/sachsmc/stdReg2"
+},
+  {
+  "package": "testassay",
+  "url": "https://github.com/sachsmc/testassay"
+},
+  {
+  "package": "pseval",
+  "url": "https://github.com/sachsmc/pseval"
+}, 
+  {
+  "package": "tufterhandout",
+  "url": "https://github.com/sachsmc/tufterhandout"
+},
+  {
+  "package": "drsurv",
+  "url": "https://github.com/sachsmc/drsurv"
+}
+  
+]
