@@ -1,13 +1,13 @@
 [
-{
-  "package": "eventglm",
-  "url": "https://github.com/sachsmc/eventglm"
-},
   {
   "package": "plotROC",
   "url": "https://github.com/sachsmc/plotROC"
 },
   {
+  "package": "eventglm",
+  "url": "https://github.com/sachsmc/eventglm"
+},
+{
   "package": "causaloptim",
   "url": "https://github.com/sachsmc/causaloptim"
 },
